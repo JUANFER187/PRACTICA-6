@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1695915268 source:c:\users\usuario\downloads\colaestatic\main.cpp
+	<iostream>
+	"Cola.h"
+
+1695914967 c:\users\usuario\downloads\colaestatic\include\cola.h
+	<iostream>
+
+1695914967 source:c:\users\usuario\downloads\colaestatic\src\cola.cpp
+	"Cola.h"
+
+1710892052 source:c:\users\juanp\onedrive\documentos\cucei\24a\sspedd1\tareas\colaestatic\main.cpp
+	<iostream>
+	"Cola.h"
+
+1710891242 c:\users\juanp\onedrive\documentos\cucei\24a\sspedd1\tareas\colaestatic\include\cola.h
+	<iostream>
+
+1710891911 source:c:\users\juanp\onedrive\documentos\cucei\24a\sspedd1\tareas\colaestatic\src\cola.cpp
+	"Cola.h"
+
+1715736192 source:c:\users\juanp\onedrive\documentos\cucei\24a\sspedd1\tareas\prÁctica 6 (bÚsquedas)\colaestatic\src\cola.cpp
+	"Cola.h"
+
+1715736259 c:\users\juanp\onedrive\documentos\cucei\24a\sspedd1\tareas\prÁctica 6 (bÚsquedas)\colaestatic\include\cola.h
+	<iostream>
+
+1715736723 source:c:\users\juanp\onedrive\documentos\cucei\24a\sspedd1\tareas\prÁctica 6 (bÚsquedas)\colaestatic\main.cpp
+	<iostream>
+	"Cola.h"
+
